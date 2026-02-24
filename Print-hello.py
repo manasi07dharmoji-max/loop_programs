@@ -1,3 +1,0 @@
-print(1+1)
-print("Hi my name is Manasi")
-

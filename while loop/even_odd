@@ -5,3 +5,4 @@ while i<=20:
     else:
         print(i,"is odd")
     i+=1
+    
